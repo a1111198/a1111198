@@ -88,5 +88,8 @@ With four years of experience in the tech industry, I specialize in building suc
 </p>
 
 ## 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/theakashbansal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32"
+- **Email:** [akbansal123456@gmail.com](mailto:akbansal123456@gmail.com)
+- **LinkedIn:** [linkedin.com/in/theakashbansal](https://www.linkedin.com/in/theakashbansal/)
+- **GitHub:** [github.com/a1111198](https://github.com/a1111198)
+
+Feel free to reach out if you have any questions or would like to collaborate on a project!
