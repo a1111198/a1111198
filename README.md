@@ -82,7 +82,7 @@ With four years of experience in the tech industry, I specialize in building suc
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=a1111198&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=a1111198&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stat" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=a1111198&theme=radical&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=a1111198&layout=compact&langs_count=10&theme=radical" alt="Top Languages" />
 </p>
