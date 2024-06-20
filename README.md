@@ -11,15 +11,15 @@ With four years of experience in the tech industry, I specialize in building suc
 ### Blockchain Development
 - **Solidity NFT Freeze Contract**
   - Developed a robust contract on Ethereum blockchain.
-  - **Contribution:** 40%
+  - **Contribution:** 100%
   ![NFT](https://img.shields.io/badge/NFT-Secure%20Transfer-orange)
 - **Sui Blockchain Vesting Contract**
   - Created a vesting contract with flexible mechanisms and secure ownership management.
-  - **Contribution:** 30%
+  - **Contribution:** 100%
   ![Vesting](https://img.shields.io/badge/Vesting-Flexible-lightgrey)
 - **Sui Programmable Transaction Block Integration**
   - Designed testing scripts reducing overall testing time by 60%.
-  - **Contribution:** 25%
+  - **Contribution:** 75%
   ![Testing](https://img.shields.io/badge/Testing-60%25%20reduction-ff69b4)
 
 ### Urban Culture
