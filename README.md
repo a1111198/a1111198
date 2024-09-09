@@ -8,6 +8,42 @@ Blockchain Developer and Security Researcher with 4+ years of experience in buil
 
 ## 🚀 Achievements and Contributions
 
+### Blockchain Projects and Security Research
+- **Security Research and Auditing**
+  - Conducted extensive research on smart contract auditing using tools such as Slither, Cyfrin Aderyn, and Foundry.
+  - Expertise in identifying and mitigating vulnerabilities, including DoS attacks, reentrancy attacks, mishandling of ETH, weak PRNG, arithmetic issues, weird ERC20s, oracle manipulation, storage collisions, slippage, FlashLoan attacks, etc.
+  ![Security Research](https://img.shields.io/badge/Security%20Research-Expert-blue)
+
+- **Advanced Smart Contract Testing**
+  - Utilized stateless and stateful fuzz testing tools for smart contract validation, ensuring code reliability and security under various attack scenarios.
+  ![Testing](https://img.shields.io/badge/Testing-Advanced-red)
+
+- **ERC20 Token Development**
+  - Developed custom ERC20 token contracts with advanced security features such as minting, burning, and pausing functionalities.
+  - Ensured compliance with Ethereum standards and enhanced contract flexibility.
+  ![ERC20](https://img.shields.io/badge/ERC20-Advanced-green)
+
+- **NFT Collection Development**
+  - Created a secure NFT collection on Ethereum with advanced metadata integration and upgradeable contract architecture using OpenZeppelin libraries.
+  ![NFT](https://img.shields.io/badge/NFT-Secure%20Collection-orange)
+
+- **DeFi Protocols**
+  - Designed and implemented DeFi protocols, including Automated Market Makers (AMMs) like Uniswap V1 and V2.
+  - Developed smart contracts for liquidity pools, swaps, and staking to enable decentralized trading.
+  ![DeFi](https://img.shields.io/badge/DeFi-Protocols-blue)
+
+- **Airdrop and Merkle Proofs**
+  - Implemented secure token distribution mechanisms using Merkle Trees and cryptographic proofs, optimizing for cost-efficiency and transparency.
+  ![Airdrop](https://img.shields.io/badge/Airdrop-Secure%20Distribution-yellow)
+
+- **Upgradeable Smart Contracts**
+  - Developed upgradeable smart contracts to support seamless updates and maintain business adaptability without downtime.
+  ![Upgradeable](https://img.shields.io/badge/Smart%20Contracts-Upgradeable-blue)
+
+- **Implemented Account Abstraction and Integrated ZkSync**
+  - Integrated account abstraction and ZkSync for scalable, low-cost transactions on Ethereum, improving user experience with reduced fees and faster confirmations.
+  ![ZkSync](https://img.shields.io/badge/ZkSync-Integrated-green)
+
 ### Blockchain Development
 - **Solidity NFT Freeze Contract**
   - Developed a robust contract on Ethereum blockchain.
