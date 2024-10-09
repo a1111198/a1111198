@@ -4,7 +4,17 @@
 
 **Blockchain Developer | Tech Enthusiast | Innovator**
 
-Blockchain Developer and Security Researcher with 4+ years of experience in building secure, scalable decentralized applications (dApps) and smart contracts. Proven track record in creating solutions for startups, leading projects for 200,000+ users, and conducting comprehensive security audits. Focused on smart contract development, DeFi protocols, and blockchain security, with expertise in Ethereum, Sui, and various blockchain technologies. Skilled in R&D and proof-of-concept projects, driven by curiosity, rapid learning, and a passion for innovation.
+Blockchain Developer and Security Researcher with 4+ years of total experience, including expertise in building secure, scalable decentralized applications (dApps) and smart contracts. Proven track record in creating solutions for startups, leading projects for 200,000+ users, and conducting comprehensive security audits. Focused on smart contract development, DeFi protocols, and blockchain security, with expertise in Ethereum, Sui, and various blockchain technologies. Skilled in R&D and proof-of-concept projects, driven by curiosity, rapid learning, and a passion for innovation.
+
+## 🏆 Achievements
+
+- **CodeHawks First Flight Challenges**
+  - [**2nd Rank** in September 2024 Challenge - *President Elector*](https://codehawks.cyfrin.io/c/2024-09-president-elector/results?lt=contest&sc=reward&sj=reward&page=1&t=leaderboard)
+  - [**2nd Rank** in August 2024 Challenge - *MyCut*](https://codehawks.cyfrin.io/c/2024-08-MyCut/results?t=leaderboard&page=1)
+- [**OpenZeppelin Ethernaut Challenge**](https://ethernaut.openzeppelin.com/)
+- **Open Source Contributions**
+  - Contributed to [OpenZeppelin](https://github.com/OpenZeppelin) and [Cyfrin](https://github.com/Cyfrin) projects.
+
 
 ## 🚀 Achievements and Contributions
 
