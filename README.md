@@ -9,7 +9,7 @@ Blockchain Developer and Security Researcher with 4+ years of total experience, 
 ## 🏆 Achievements
 
 - **CodeHawks First Flight Challenges**
-  - **2nd Rank** in September 2024 Challenge - [*President Elector*](https://codehawks.cyfrin.io/c/2024-09-president-elector/results?lt=contest&sc=reward&sj=reward&page=1&t=leaderboard)
+  - **2nd Rank** in September 2024 Challenge - [*President Elector*](https://codehawks.cyfrin.io/c/2024-09-president-elector/results?lt=contest&sc=xp&sj=reward&page=1&t=leaderboard)
   - **2nd Rank** in August 2024 Challenge - [*MyCut*](https://codehawks.cyfrin.io/c/2024-08-MyCut/results?t=leaderboard&page=1)
 - **OpenZeppelin Ethernaut** [Challenge](https://ethernaut.openzeppelin.com/)
 - **Open Source Contributions**
