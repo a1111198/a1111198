@@ -4,7 +4,7 @@
 
 **Blockchain Developer | Tech Enthusiast | Innovator**
 
-Blockchain Developer and Security Researcher with 4+ years of total experience, including expertise in building secure, scalable decentralized applications (dApps) and smart contracts. Proven track record in creating solutions for startups, leading projects for 200,000+ users, and conducting comprehensive security audits. Focused on smart contract development, DeFi protocols, and blockchain security, with expertise in Ethereum, Sui, and various blockchain technologies. Skilled in R&D and proof-of-concept projects, driven by curiosity, rapid learning, and a passion for innovation.
+Blockchain Developer and Security Researcher with 4+ years of total experience, including expertise in building secure, scalable decentralized applications (dApps) and smart contracts. Proven track record in creating solutions for startups, leading projects for 300,000+ users, and conducting comprehensive security audits. Focused on smart contract development, DeFi protocols, and blockchain security, with expertise in Ethereum, Sui, and various blockchain technologies. Skilled in R&D and proof-of-concept projects, driven by curiosity, rapid learning, and a passion for innovation.
 
 ## 🏆 Achievements
 
