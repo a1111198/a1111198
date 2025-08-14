@@ -1,141 +1,187 @@
 # Hi there, I'm Akash Bansal 👋
-[![Linkedin Badge](https://img.shields.io/badge/-theakashbansal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/theakashbansal/)](https://www.linkedin.com/in/theakashbansal/)
-[![Github Badge](https://img.shields.io/badge/-a1111198-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/a1111198)](https://github.com/a1111198)
 
-**Blockchain Developer | Tech Enthusiast | Innovator**
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A0DAD&center=true&vCenter=true&width=435&lines=Blockchain+Developer;Full+Stack+Developer;5%2B+Years+of+Experience;300%2C000%2B+Users+Impacted;Smart+Contract+Auditor)](https://git.io/typing-svg)
 
-Blockchain Developer and Security Researcher with 4+ years of total experience, including expertise in building secure, scalable decentralized applications (dApps) and smart contracts. Proven track record in creating solutions for startups, leading projects for 300,000+ users, and conducting comprehensive security audits. Focused on smart contract development, DeFi protocols, and blockchain security, with expertise in Ethereum, Sui, and various blockchain technologies. Skilled in R&D and proof-of-concept projects, driven by curiosity, rapid learning, and a passion for innovation.
+[![Linkedin Badge](https://img.shields.io/badge/-theakashbansal-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theakashbansal/)
+[![Github Badge](https://img.shields.io/badge/-a1111198-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/a1111198)
+[![Twitter Badge](https://img.shields.io/badge/-akashbansal-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/akashbansal)
+[![Email Badge](https://img.shields.io/badge/-akbansal123456@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akbansal123456@gmail.com)
 
-## 🏆 Achievements
+</div>
+
+## 🚀 About Me
+
+**Full-Stack Engineer and Blockchain Developer** with **5 years** of total experience, specializing in building secure, scalable decentralized applications (dApps) and conducting comprehensive security audits. Proven track record in:
+
+- 🏗️ **Built and scaled** the Urban Culture platform from inception to **300,000+ users**
+- 🔐 **Security Research** - Expert in smart contract auditing and vulnerability detection
+- 🏆 **Competitive Programming** - Multiple top rankings in security challenges
+- 💡 **Innovation** - R&D and proof-of-concept projects in DeFi, NFTs, and blockchain protocols
+
+## 🏆 Key Achievements
+
+<details>
+<summary><b>🥇 Competition Rankings & Challenges</b></summary>
 
 - **CodeHawks First Flight Challenges**
-  - **2nd Rank** in September 2024 Challenge - [*President Elector*](https://codehawks.cyfrin.io/c/2024-09-president-elector/results?lt=contest&sc=xp&sj=reward&page=1&t=leaderboard)
-  - **2nd Rank** in August 2024 Challenge - [*MyCut*](https://codehawks.cyfrin.io/c/2024-08-MyCut/results?t=leaderboard&page=1)
-- **OpenZeppelin Ethernaut** [Challenge](https://ethernaut.openzeppelin.com/)
-- **Open Source Contributions**
-  - Contributed to [OpenZeppelin](https://github.com/OpenZeppelin) and [Cyfrin](https://github.com/Cyfrin) projects.
+  - 🥈 **2nd Rank** - [President Elector (September 2024)](https://codehawks.cyfrin.io/c/2024-09-president-elector/results?lt=contest&sc=xp&sj=reward&page=1&t=leaderboard)
+  - 🥈 **2nd Rank** - [MyCut (August 2024)](https://codehawks.cyfrin.io/c/2024-08-MyCut/results?t=leaderboard&page=1)
+- ✅ **Completed** [OpenZeppelin Ethernaut Challenge](https://ethernaut.openzeppelin.com/)
+- ✅ **Completed** Damn Vulnerable DeFi CTF
 
+</details>
 
-## 🚀 Achievements and Contributions
+<details>
+<summary><b>🌟 Platform Success</b></summary>
 
-### Blockchain Projects and Security Research
-- **Security Research and Auditing**
-  - Conducted extensive research on smart contract auditing using tools such as Slither, Cyfrin Aderyn, and Foundry.
-  - Expertise in identifying and mitigating vulnerabilities, including DoS attacks, reentrancy attacks, mishandling of ETH, weak PRNG, arithmetic issues, weird ERC20s, oracle manipulation, storage collisions, slippage, FlashLoan attacks, etc.
-  ![Security Research](https://img.shields.io/badge/Security%20Research-Expert-blue)
+- 📱 Developed and scaled **Urban Culture** platform - [App](https://play.google.com/store/apps/details?id=com.urbanculture) | [iOS](https://apps.apple.com/app/id) | [Partner App](https://play.google.com/store/apps/details?id=com.urbanculture.partner)
+- 💰 Achieved **10 Million INR** fiscal turnover
+- 🌍 Expanded across **6 major cities**
+- ⚡ Maintained **99.999% uptime** with microservices architecture
 
-- **Advanced Smart Contract Testing**
-  - Utilized stateless and stateful fuzz testing tools for smart contract validation, ensuring code reliability and security under various attack scenarios.
-  ![Testing](https://img.shields.io/badge/Testing-Advanced-red)
+</details>
 
-- **ERC20 Token Development**
-  - Developed custom ERC20 token contracts with advanced security features such as minting, burning, and pausing functionalities.
-  - Ensured compliance with Ethereum standards and enhanced contract flexibility.
-  ![ERC20](https://img.shields.io/badge/ERC20-Advanced-green)
+## 💼 Recent Projects
 
-- **NFT Collection Development**
-  - Created a secure NFT collection on Ethereum with advanced metadata integration and upgradeable contract architecture using OpenZeppelin libraries.
-  ![NFT](https://img.shields.io/badge/NFT-Secure%20Collection-orange)
+### 🌟 [Amalas Impact-Based Staking Platform](https://github.com/a1111198/amalas-staking) (July 2025)
+Full-stack impact-based staking solution with reward distribution mechanisms
+- 📊 [Live Frontend](https://amalas-staking.vercel.app) | 📝 [Smart Contract](https://etherscan.io/address/0x...)
+- ✨ Features: Staking dashboard, reward tracking, impact metrics visualization
 
-- **DeFi Protocols**
-  - Designed and implemented DeFi protocols, including Automated Market Makers (AMMs) like Uniswap V1 and V2.
-  - Developed smart contracts for liquidity pools, swaps, and staking to enable decentralized trading.
-  ![DeFi](https://img.shields.io/badge/DeFi-Protocols-blue)
+### 🔒 Advanced Security Research Projects
 
-- **Airdrop and Merkle Proofs**
-  - Implemented secure token distribution mechanisms using Merkle Trees and cryptographic proofs, optimizing for cost-efficiency and transparency.
-  ![Airdrop](https://img.shields.io/badge/Airdrop-Secure%20Distribution-yellow)
+<table>
+<tr>
+<td width="50%">
 
-- **Upgradeable Smart Contracts**
-  - Developed upgradeable smart contracts to support seamless updates and maintain business adaptability without downtime.
-  ![Upgradeable](https://img.shields.io/badge/Smart%20Contracts-Upgradeable-blue)
+**[🔥 Huff-Yul-HorseStore-NFT](https://github.com/a1111198/huff-yul-horsestore)**
+- ERC721 NFT contract in pure Huff
+- Deep EVM opcodes understanding
+- Gas optimization techniques
 
-- **Implemented Account Abstraction and Integrated ZkSync**
-  - Integrated account abstraction and ZkSync for scalable, low-cost transactions on Ethereum, improving user experience with reduced fees and faster confirmations.
-  ![ZkSync](https://img.shields.io/badge/ZkSync-Integrated-green)
+</td>
+<td width="50%">
 
-### Blockchain Development
-- **Solidity NFT Freeze Contract**
-  - Developed a robust contract on Ethereum blockchain.
-  - **Contribution:** 100%
-  ![NFT](https://img.shields.io/badge/NFT-Secure%20Transfer-orange)
-- **Sui Blockchain Vesting Contract**
-  - Created a vesting contract with flexible mechanisms and secure ownership management.
-  - **Contribution:** 100%
-  ![Vesting](https://img.shields.io/badge/Vesting-Flexible-lightgrey)
-- **Sui Programmable Transaction Block Integration**
-  - Designed testing scripts reducing overall testing time by 60%.
-  - **Contribution:** 75%
-  ![Testing](https://img.shields.io/badge/Testing-60%25%20reduction-ff69b4)
+**[🔍 Formal Verification Suite](https://github.com/a1111198/formal-verification)**
+- Halmos & Certora integration
+- Advanced math function verification
+- Symbolic execution testing
 
-### Urban Culture
-- **Platform Scalability and Market Penetration**
-  - Expanded services across six major cities, achieving a 5 million INR fiscal turnover.
-  - **Contribution:** 30%
-  ![Stats](https://img.shields.io/badge/Scalability-150K+%20users-brightgreen)
-- **High Availability Systems**
-  - Developed and scaled microservices architecture, achieving 99.999% uptime.
-  - **Contribution:** 25%
-  ![Uptime](https://img.shields.io/badge/Uptime-99.999%25-brightgreen)
-- **Advanced Cloud Solutions and Frontend Development**
-  - Enhanced UI responsiveness and service delivery using Flutter and Node.js.
-  - Utilized Google Cloud Platform for real-time data synchronization and serverless computing.
-  - Integrated Firestore with Google BigQuery, leading to a 20% increase in ROI on marketing spend.
-  - **Contribution:** 35%
-  ![ROI](https://img.shields.io/badge/ROI-20%25%20increase-blue)
+</td>
+</tr>
+</table>
 
-### Innovative Projects
-- **Coupon Discount System**
-  - Increased average cart value by 16%.
-  - **Contribution:** 20%
-  ![Cart Value](https://img.shields.io/badge/Cart%20Value-16%25%20increase-blue)
-- **Loan and Credit Management Systems**
-  - Streamlined operations and improved partner support.
-  - **Contribution:** 25%
-  ![Partner Support](https://img.shields.io/badge/Partner%20Support-Improved-yellow)
-- **Custom Geolocation Services**
-  - Reduced overhead costs by 80% while maintaining accuracy.
-  - **Contribution:** 30%
-  ![Cost Reduction](https://img.shields.io/badge/Cost%20Reduction-80%25%20blue)
-- **Enhanced Notification Mechanisms**
-  - Increased user engagement and conversion rates through strategic timing.
-  - **Contribution:** 15%
-  ![Engagement](https://img.shields.io/badge/Engagement-Increased-yellowgreen)
+## 🛠️ Technical Arsenal
 
+### Blockchain & Security
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=foundry&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
 
-## 🛠️ Tech Stack
-<p align="center">
-  <a href="https://ethereum.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-  <a href="https://sui.io/" target="_blank" rel="noreferrer"><img src="https://cdn.prod.website-files.com/6425f546844727ce5fb9e5ab/65690e5e73e9e2a416e3502f_sui-mark.svg" width="36" height="36" alt="Sui Blockchain" /></a>
-  <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
-  <a href="https://book.getfoundry.sh/" target="_blank" rel="noreferrer"><img src="https://book.getfoundry.sh/images/foundry-banner.png" width="36" height="36" alt="Foundry" /></a>
-<a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="36" height="36" alt="Solidity" style="background-color: white; padding: 5px; border-radius: 5px;"/>
-</a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="36" height="36" alt="Flutter" /></a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" /></a>
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="36" height="36" alt="Dart" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" /></a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" height="36" alt="Google Cloud Platform" /></a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="36" height="36" alt="AWS" /></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36" height="36" alt="Firebase" /></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>
-</p>
+### Security Tools
+![Slither](https://img.shields.io/badge/Slither-FF6B6B?style=for-the-badge)
+![Aderyn](https://img.shields.io/badge/Cyfrin_Aderyn-4ECDC4?style=for-the-badge)
+![Halmos](https://img.shields.io/badge/Halmos-95E1D3?style=for-the-badge)
+![Certora](https://img.shields.io/badge/Certora-F38181?style=for-the-badge)
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=a1111198&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stat" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a1111198&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=a1111198&layout=compact&langs_count=10&theme=radical" alt="Top Languages" />
-</p>
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-## 🌐 Connect with Me
-- **Email:** [akbansal123456@gmail.com](mailto:akbansal123456@gmail.com)
-- **LinkedIn:** [linkedin.com/in/theakashbansal](https://www.linkedin.com/in/theakashbansal/)
-- **GitHub:** [github.com/a1111198](https://github.com/a1111198)
+### Cloud & DevOps
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-Feel free to reach out if you have any questions or would like to collaborate on a project!
+## 📊 Expertise Areas
+
+<div align="center">
+
+| Security Research | DeFi Development | Full-Stack |
+|:---:|:---:|:---:|
+| 🔐 Smart Contract Auditing | 💱 AMMs (Uniswap V1/V2) | 📱 Flutter Mobile Apps |
+| 🐛 Vulnerability Detection | ⚡ Flash Loans | 🖥️ Node.js Backend |
+| 🧪 Fuzz Testing | 🪙 Token Development | ☁️ GCP/AWS Cloud |
+| 🔍 Formal Verification | 🎯 Staking Protocols | 📊 Real-time Analytics |
+
+</div>
+
+## 🎯 Security Expertise
+
+<details>
+<summary><b>Vulnerability Detection & Mitigation</b></summary>
+
+- ✅ Reentrancy Attacks
+- ✅ DoS Vulnerabilities
+- ✅ Oracle Manipulation
+- ✅ Flash Loan Attacks
+- ✅ MEV Protection
+- ✅ Storage Collisions
+- ✅ Arithmetic Issues
+- ✅ Access Control Flaws
+- ✅ Weird ERC20 Handling
+
+</details>
+
+## 📜 Certifications
+
+<div align="center">
+
+![Cyfrin](https://img.shields.io/badge/Cyfrin_Updraft-Certified-brightgreen?style=for-the-badge)
+
+| Certification | Status |
+|:---|:---:|
+| 🔧 Assembly and Formal Verification | ✅ |
+| 🛡️ Smart Contract Security | ✅ |
+| ⚡ Advanced Foundry | ✅ |
+| 🔨 Foundry Fundamentals | ✅ |
+| 📝 Solidity Smart Contract Development | ✅ |
+| ⛓️ Blockchain Basics | ✅ |
+
+</div>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=a1111198&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=a1111198&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=a1111198&layout=compact&langs_count=10&theme=tokyonight)
+
+![Profile Views](https://komarev.com/ghpvc/?username=a1111198&color=blueviolet&style=for-the-badge)
+
+</div>
+
+## 🤝 Open Source Contributions
+
+- [**OpenZeppelin**](https://github.com/OpenZeppelin) - Security patterns and best practices
+- [**Cyfrin**](https://github.com/Cyfrin) - Educational content and tooling
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+I'm always open to discussing blockchain security, DeFi innovations, or potential collaborations!
+
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akbansal123456@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theakashbansal/)
+[![Schedule Meeting](https://img.shields.io/badge/Schedule_a_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/akashbansal)
+
+</div>
+
+---
+
+<div align="center">
+  
+*"Building the decentralized future, one secure smart contract at a time"* 🚀
+
+</div>
