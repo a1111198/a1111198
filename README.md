@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-**Full-Stack Engineer and Blockchain Developer** with **5 years** of total experience, specializing in building secure, scalable decentralized applications (dApps) and conducting comprehensive security audits. Proven track record in:
+**Backend Engineer and Blockchain Developer** with **5 years** of total experience, specializing in building secure, scalable decentralized applications (dApps) and conducting comprehensive security audits. Proven track record in:
 
 - 🏗️ **Built and scaled** the Urban Culture platform from inception to **300,000+ users**
 - 🔐 **Security Research** - Expert in smart contract auditing and vulnerability detection
@@ -21,6 +21,8 @@
 - 💡 **Innovation** - R&D and proof-of-concept projects in DeFi, NFTs, and blockchain protocols
 
 ## 🏆 Key Achievements
+
+**Identified valid vulnerability in Code4rena [GTE Spot CLOB audit](https://docs.gte.xyz/home/overview/about-gte) (August 2025)** (https://code4rena.com/audits/2025-07-gte-spot-clob-and-router/submissions/S-878)
 
 <details>
 <summary><b>🥇 Competition Rankings & Challenges</b></summary>
@@ -45,9 +47,9 @@
 
 ## 💼 Recent Projects
 
-### 🌟 [Amalas Impact-Based Staking Platform](https://github.com/a1111198/amalas-staking) (July 2025)
+### 🌟 [Amalas Impact-Based Staking Platform](https://testnet.bscscan.com/address/0xc79ddec1fb7b13503fb8a503d89ad756f76f2dab#code) (July 2025)
 Full-stack impact-based staking solution with reward distribution mechanisms
-- 📊 [Live Frontend](https://amalas-staking.vercel.app) | 📝 [Smart Contract](https://etherscan.io/address/0x...)
+- 📊 [Live Frontend](https://amalas-impact-staking-bph9arno1-amalas.vercel.app/) | 📝 [Smart Contract](https://testnet.bscscan.com/address/0xc79ddec1fb7b13503fb8a503d89ad756f76f2dab#code)
 - ✨ Features: Staking dashboard, reward tracking, impact metrics visualization
 
 ### 🔒 Advanced Security Research Projects
@@ -56,7 +58,7 @@ Full-stack impact-based staking solution with reward distribution mechanisms
 <tr>
 <td width="50%">
 
-**[🔥 Huff-Yul-HorseStore-NFT](https://github.com/a1111198/huff-yul-horsestore)**
+**[🔥 Huff-Yul-HorseStore-NFT](https://github.com/a1111198/Huff-Yul-HorseStore-NFT)**
 - ERC721 NFT contract in pure Huff
 - Deep EVM opcodes understanding
 - Gas optimization techniques
@@ -64,7 +66,7 @@ Full-stack impact-based staking solution with reward distribution mechanisms
 </td>
 <td width="50%">
 
-**[🔍 Formal Verification Suite](https://github.com/a1111198/formal-verification)**
+**[🔍 Formal Verification Suite](https://github.com/a1111198/Formal-verification-and-symbolic-Execution)**
 - Halmos & Certora integration
 - Advanced math function verification
 - Symbolic execution testing
