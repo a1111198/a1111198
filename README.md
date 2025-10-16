@@ -24,26 +24,18 @@
 
 **Identified valid vulnerability in Code4rena [GTE Spot CLOB audit](https://docs.gte.xyz/home/overview/about-gte) (August 2025)** (https://code4rena.com/audits/2025-07-gte-spot-clob-and-router/submissions/S-878)
 
-<details>
-<summary><b>🥇 Competition Rankings & Challenges</b></summary>
-
 - **CodeHawks First Flight Challenges**
   - 🥈 **2nd Rank** - [President Elector (September 2024)](https://codehawks.cyfrin.io/c/2024-09-president-elector/results?lt=contest&sc=xp&sj=reward&page=1&t=leaderboard)
   - 🥈 **2nd Rank** - [MyCut (August 2024)](https://codehawks.cyfrin.io/c/2024-08-MyCut/results?t=leaderboard&page=1)
 - ✅ **Completed** [OpenZeppelin Ethernaut Challenge](https://ethernaut.openzeppelin.com/)
 - ✅ **Completed** Damn Vulnerable DeFi CTF
 
-</details>
 
-<details>
-<summary><b>🌟 Platform Success</b></summary>
-
-- 📱 Developed and scaled **Urban Culture** platform - [App](https://play.google.com/store/apps/details?id=com.urbanculture) | [iOS](https://apps.apple.com/app/id) | [Partner App](https://play.google.com/store/apps/details?id=com.urbanculture.partner)
+- 📱 Developed and scaled **Urban Culture** platform - [App](https://play.google.com/store/apps/details?id=com.urbanculture) | [iOS](https://apps.apple.com/in/app/urban-culture-salon-at-home/id6747115887) | [Partner App](https://play.google.com/store/apps/details?id=com.urbanculture.partner)
 - 💰 Achieved **10 Million INR** fiscal turnover
 - 🌍 Expanded across **6 major cities**
 - ⚡ Maintained **99.999% uptime** with microservices architecture
 
-</details>
 
 ## 💼 Recent Projects
 
